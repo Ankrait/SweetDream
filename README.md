@@ -1,2 +1,15 @@
-# [Ссылка на сайт](https://ankrait.github.io/SweetDream/)
-Одна из последних версток, с хорошим адаптивом и меню бургер.
+# SweetDream
+Верстка с применением нативного JS.
+<br />
+[Ссылка на GitHub Pages](https://ankrait.github.io/SweetDream/)
+<br />
+<br />
+
+### Built With
+<img src="https://github.com/Ankrait/MyProject/assets/104920129/b5dbb29b-830d-4269-a052-6d8212f8c97d" height="200px"></img>
+
+### Getting Started
+Для запуска локально скопируйте репозиторий и откройте index.html
+ ```sh
+ git clone https://github.com/Ankrait/SweetDream.git
+ ```
